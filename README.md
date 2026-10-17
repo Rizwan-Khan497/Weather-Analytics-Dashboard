@@ -37,4 +37,4 @@ Data Cleaning | Data Transformation | Data Visualization | Power Query | DAX | D
 To transform raw weather data into meaningful insights and demonstrate practical data analytics skills through an interactive Power BI dashboard.
 
 ## 👨‍💻 Author
-BS Computer Science Student | Aspiring Data Analyst
+Rizwan Afridi | Aspiring Data Analyst
